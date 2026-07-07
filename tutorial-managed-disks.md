@@ -26,7 +26,7 @@ This tutorial describes the Azure portal flow used during Private Preview. Label
 2. Go to Azure Database for MySQL flexible server.
 3. Select Advanced Create.
 
-Screenshot placeholder: ./media/01-create-server-entry.png
+![Azure portal showing the Advanced Create option for Azure Database for MySQL Flexible Server](media/01-create-server-entry.jpeg)
 
 ### Step 2: Configure Storage and Compute
 1. Choose subscription and resource group.

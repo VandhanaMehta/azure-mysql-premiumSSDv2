@@ -26,7 +26,7 @@ This tutorial describes the Azure portal flow used during Private Preview. Label
 2. Go to Azure Database for MySQL flexible server.
 3. Select Advanced Create.
 
-![Azure portal showing the Advanced Create option for Azure Database for MySQL Flexible Server](media/01-create-server-entry.jpeg)
+![Azure portal showing the Advanced Create option for Azure Database for MySQL Flexible Server](media/01-create-server-entry.jpg)
 
 ### Step 2: Configure Storage and Compute
 1. Choose subscription and resource group.
@@ -38,7 +38,7 @@ This tutorial describes the Azure portal flow used during Private Preview. Label
 5. Select supported V6 compute SKU.
 
 
-Screenshot placeholder: ./media/02-storage-ssdv2-settings.png
+![Compute and storage settings showing Premium SSD v2 selected](media/02-storage-ssdv2-compute-settings.jpg)
 
 ### Step 3: Configure networking
 1. Choose connectivity path: Public access + firewall rules, or Private Link

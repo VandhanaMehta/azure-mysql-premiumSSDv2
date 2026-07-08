@@ -37,6 +37,6 @@ Premium SSD v2 enables independent tuning of storage size, IOPS, and throughput,
 - [Provisioning walkthrough](tutorial-managed-disks.md)
 
 ## References
-- [Premium SSD v2 public reference pattern] https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types#premium-ssd-v2
-- [v6 compute (AMD)]https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv6-series?tabs=sizebasic
-- [v6 compute (Intel)]https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddsv6-series?tabs=sizebasic
+- [Premium SSD v2 public reference pattern](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types#premium-ssd-v2)
+- [v6 compute (AMD)](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv6-series?tabs=sizebasic)
+- [v6 compute (Intel)](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddsv6-series?tabs=sizebasic)

@@ -68,6 +68,6 @@ This flexibility allows storage performance to scale independently of storage ca
 
 
 ## Related
-- Announcement Page(README.md)
-- Provisioning tutorial(tutorial-managed-disks.md)
+- [Announcement Page](README.md)
+- [Provisioning tutorial](tutorial-managed-disks.md)
 

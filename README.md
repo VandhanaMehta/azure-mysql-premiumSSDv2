@@ -24,7 +24,7 @@ Premium SSD v2 enables independent tuning of storage size, IOPS, and throughput,
 - Teams evaluating cost/performance optimization with tunable managed storage
 
 ## How to sign up
-1. Complete the preview request form: <MSFORM_LINK_PLACEHOLDER>
+1. Complete the preview request form: [enrolment form](https://aka.ms/mysql-premium-ssdv2)
 2. Wait for onboarding confirmation and allowlist communication from the product team
 
 ## Important preview notes

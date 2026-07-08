@@ -47,11 +47,12 @@ This flexibility allows storage performance to scale independently of storage ca
 ### General Limitations
 - Enabling or disabling high availability (HA) after server creation.
 - Some server parameter modifications are not supported. Only a subset of exposed server parameters can be modified during the preview.
-- Restarting HA servers.
+- Restarting, compute scaling and private link for HA servers.
 - Read replicas
 - Fabric Mirroring
 - Microsoft Entra ID (Azure AD) authentication.
 - Customer-managed keys (CMK)
+- Geo-redundant backups amd storage auto-grow
 
 ### Maintenance Limitations
 - Planned maintenance operations.
@@ -67,6 +68,6 @@ This flexibility allows storage performance to scale independently of storage ca
 
 
 ## Related
-- Announcement Page: ./README.md
-- Provisioning tutorial: ./tutorial-managed-disks.md
+- Announcement Page(README.md)
+- Provisioning tutorial(tutorial-managed-disks.md)
 

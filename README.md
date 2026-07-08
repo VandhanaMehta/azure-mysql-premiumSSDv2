@@ -33,9 +33,8 @@ Premium SSD v2 enables independent tuning of storage size, IOPS, and throughput,
 - As per Azure Private Preview guidance, this feature carries no SLA or formal support commitment. The product team provides best-effort assistance only. Production use is at the customer's discretion and risk until the feature reaches GA.
 
 ## Related files
-- Concepts and scope details: ./concepts-managed-disks.md
-- Provisioning walkthrough: ./tutorial-managed-disks.md
-- Tutorial screenshots: ./media/
+- [Concepts and scope details](concepts-managed-disks.md)
+- [Provisioning walkthrough](tutorial-managed-disks.md)
 
 ## References
 - [Premium SSD v2 public reference pattern] https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types#premium-ssd-v2

@@ -51,7 +51,6 @@ This flexibility allows storage performance to scale independently of storage ca
 - Restarting, compute scaling and private link for HA servers.
 - Read replicas
 - Fabric Mirroring
-- Microsoft Entra ID (Azure AD) authentication.
 - Customer-managed keys (CMK)
 - Geo-redundant backups amd storage auto-grow
 

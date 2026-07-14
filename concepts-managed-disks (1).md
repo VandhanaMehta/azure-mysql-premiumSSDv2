@@ -33,7 +33,7 @@ This flexibility allows storage performance to scale independently of storage ca
 
 ### 3) Networking
 - Public access with firewall rules.
-- Private access with Private link.
+- Private access with Private link for non HA server.
 - Enable or disable public network access using Private Link.
 
 ### 4) Backup and Restore
@@ -46,6 +46,7 @@ This flexibility allows storage performance to scale independently of storage ca
 
 ### General Limitations
 - Enabling or disabling high availability (HA) after server creation.
+- Private link for HA servers is not supported.
 - Some server parameter modifications are not supported. Only a subset of exposed server parameters can be modified during the preview.
 - Restarting, compute scaling and private link for HA servers.
 - Read replicas

@@ -19,7 +19,7 @@ Premium SSD v2 enables independent tuning of storage size, IOPS, and throughput,
 - Backup/Restore: automatic backup/list, on-demand backup (create/delete/schedule), fast restore, PITR
   
 ## Supported Regions
-- Australia Central 2, Australia East, Australia Southeast, Brazil South, Brazil Southeast, Canada Central, Canada East, Central India, Central US, East Asia, Germany North, Germany West Central, Italy North, Japan East, Japan West, Korea Central, North Central US, Norway West, Poland Central, South Africa North, South Central US, South India, Southeast Asia, Sweden Central, UK West, West Central US, West US, West US 3
+- Australia Central 2, Australia East, Australia Southeast, Brazil South, Brazil Southeast, Canada Central, Canada East, Central India, Central US, East Asia, Germany North, Germany West Central, Italy North, Japan East, Japan West, Korea Central, North Central US, Norway West, Poland Central, South Africa North, South India, Southeast Asia, Sweden Central, UK West, West Central US
 
 ## Who should sign up
 - Customers with high I/O and latency-sensitive workloads

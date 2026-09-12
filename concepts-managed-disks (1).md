@@ -46,9 +46,8 @@ This flexibility allows storage performance to scale independently of storage ca
 
 ### General Limitations
 - Enabling or disabling high availability (HA) after server creation.
-- Private link for HA servers is not supported.
 - Some server parameter modifications are not supported. Only a subset of exposed server parameters can be modified during the preview.
-- Restarting, compute scaling and private link for HA servers.
+- Restarting and compute scaling for HA servers.
 - Read replicas
 - Fabric Mirroring
 - Customer-managed keys (CMK)

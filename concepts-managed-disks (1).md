@@ -33,7 +33,7 @@ This flexibility allows storage performance to scale independently of storage ca
 
 ### 3) Networking
 - Public access with firewall rules.
-- Private access with Private link for non HA server.
+- Private access with Private link for HA and non-HA server.
 - Enable or disable public network access using Private Link.
 
 ### 4) Backup and Restore
